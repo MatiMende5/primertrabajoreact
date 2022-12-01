@@ -1,0 +1,23 @@
+.navegador{
+    height: 100%;
+    width: 100%;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    display: flex;
+    list-style: none;
+    justify-content:space-between;
+    align-items: center;
+    background-image: url("https://ideasdenegocios.tv/wp-content/uploads/2022/08/kiosko-1024x576.png");
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    align-items: left;
+}
+.nav_link{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
